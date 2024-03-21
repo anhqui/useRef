@@ -1,0 +1,12 @@
+input{
+  height: 25px;
+  width: 100%;
+}
+div{
+  font-size: 2rem;
+}
+
+button{
+  padding: 0.3em 0.6em;
+  font-size: 1.2rem;
+}
